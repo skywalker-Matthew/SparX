@@ -1,7 +1,7 @@
 # SushiBelt Architecture - Toy Model
 
 This is a toy model of the SushiBelt architecture with the following configuration:
-- Array size \(N = 16 \times 16\)
+- Array size \(N = 16 * 16\)
 - Sparsity of weights and activations: 0.5
 - FIFO depth of each PE: \(K = 16\)
 
