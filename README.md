@@ -1,6 +1,6 @@
-# SushiBelt Architecture - Toy Model
+# SparX Architecture - Toy Model
 
-This is a toy model of the SushiBelt architecture with the following configuration:
+This is a toy model of the SparX architecture with the following configuration:
 - Array size \(N = 16 * 16\)
 - Sparsity of weights and activations: 0.5
 - FIFO depth of each PE: \(K = 16\)
